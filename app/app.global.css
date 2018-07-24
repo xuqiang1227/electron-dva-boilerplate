@@ -3,7 +3,6 @@
  *        See https://github.com/webpack-contrib/sass-loader#imports
  */
 @import "~font-awesome/css/font-awesome.css";
-@import "~antd/dist/antd.css";
 
 body {
   position: relative;
