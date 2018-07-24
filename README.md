@@ -15,7 +15,7 @@
 [![ESLint](/internals/img/eslint-padded-90.png)](http://eslint.org/)
 [![Jest](/internals/img/jest-padded-90.png)](https://facebook.github.io/jest/)
 [![Yarn](/internals/img/yarn-padded-90.png)](https://yarnpkg.com/)
-[![Dva](/internals/img/redux-padded-90.png)](https://yarnpkg.com/)
+[![Dva](/internals/img/redux-padded-90.png)](https://github.com/dvajs/dva)
 
 [Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr), [Dva](https://github.com/dvajs/dva) for rapid application development.
 ## Install
