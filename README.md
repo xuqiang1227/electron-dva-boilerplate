@@ -1,6 +1,7 @@
 # electron-dva-boilerplate
 
 ### A Boilerplate for Scalable Cross-Platform Desktop Apps
+> Inspired by [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
 
 <br/>
 
@@ -140,16 +141,12 @@ import './app.global.scss';
 ## Static Type Checking
 This project comes with Flow support out of the box! You can annotate your code with types, [get Flow errors as ESLint errors](https://github.com/amilajack/eslint-plugin-flowtype-errors), and get [type errors during runtime](https://github.com/codemix/flow-runtime) during development. Types are completely optional.
 
-## Dispatching redux actions from main process
-
-See [#118](https://github.com/chentsulin/electron-react-boilerplate/issues/118) and [#108](https://github.com/chentsulin/electron-react-boilerplate/issues/108)
-
 ## How to keep your project updated with the boilerplate
 
 If your application is a fork from this repo, you can add this repo to another git remote:
 
 ```sh
-git remote add upstream https://github.com/chentsulin/electron-react-boilerplate.git
+git remote add upstream https://github.com/kairi1227/electron-dva-boilerplate.git
 ```
 
 Then, use git to merge some latest commits:
@@ -161,12 +158,3 @@ git pull upstream master
 ## License
 MIT © [kairi1227](https://github.com/kairi1227)
 
-[npm-image]: https://img.shields.io/npm/v/electron-react-boilerplate.svg?style=flat-square
-[github-tag-image]: https://img.shields.io/github/tag/chentsulin/electron-react-boilerplate.svg
-[github-tag-url]: https://github.com/chentsulin/electron-react-boilerplate/releases/latest
-[travis-image]: https://travis-ci.org/chentsulin/electron-react-boilerplate.svg?branch=master
-[travis-url]: https://travis-ci.org/chentsulin/electron-react-boilerplate
-[appveyor-image]: https://ci.appveyor.com/api/projects/status/github/chentsulin/electron-react-boilerplate?svg=true
-[appveyor-url]: https://ci.appveyor.com/project/chentsulin/electron-react-boilerplate/branch/master
-[david_img]: https://img.shields.io/david/chentsulin/electron-react-boilerplate.svg
-[david_site]: https://david-dm.org/chentsulin/electron-react-boilerplate
